@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir C:\\\\Work\\\\Course\\\\202602\\\\CloudNative\\\\code\\\\demo06:*)",
+      "Bash(cmd:*)"
+    ]
+  }
+}
